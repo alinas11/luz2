@@ -1,0 +1,94 @@
+
+#weekly_luz
+{
+	width: 100%;
+	border-radius: 5px ;
+	height: 750px ;
+	border-color:grey;
+	border-collapse:separate;
+	border-spacing: 0.4em;
+	position: relative ;
+
+	
+}
+
+html, body 
+{
+	height :100% ; 
+	width: 100 %;
+	margin: 0;
+	direction: rtl;
+	font-family: 'Segoe UI', 'Lucida Sans', 'Lucida Sans Unicode';
+}
+
+#lessons
+{
+	background-color: #81a040 ;
+}
+
+.lesson_break
+{
+	background-color: #81a040 ;
+}
+
+.timeline
+{	
+	
+	background-color: #111901 ;
+	vertical-align: top ;
+	
+}
+
+.currentime
+{
+	height: 1px;
+	width: 100%;
+	background:rgba(255,44,145,0.8);
+	box-shadow: 0 0 3px 1px rgba(255,44,145,0.8);
+	position: absolute;
+}
+
+.time
+{	
+	
+	color : #81a040
+}
+
+.break
+{	
+	color :red ;
+	background-color: #111901 ;
+}
+
+.rows
+{
+	vertical-align: top 
+}
+
+th 
+{
+	box-shadow: 0 2px 3px -2px #777;
+	border-radius: 5px ;
+	text-shadow: 1px 1px 4px #bbb;
+	font-size: 1.2em;
+	height: 32px;
+}
+
+td
+{
+	box-shadow: 0 2px 3px -2px #777;
+	border-radius: 5px ;
+	text-shadow: 1px 1px 4px #bbb;
+	background-color: #252624 ;
+}
+
+.grid-container 
+{
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 0px;
+}
+.grid-item 
+{
+  border: 0px solid rgba(0, 0, 0, 0.8);
+}
