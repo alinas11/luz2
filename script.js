@@ -29,7 +29,7 @@ function main()
 	var bool_time2 = true;
 
 	content = "<tr class=\"table_headers\" style=\"height:5%\" ><th></th>"; 
-	// generate table headers:
+	// generate table headers1:
 	for (i = index_current_day ; i < max_days_to_show + index_current_day ; i++)
 	{
 		if ( i == index_current_day)
