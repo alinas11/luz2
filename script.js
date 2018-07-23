@@ -8,7 +8,7 @@ var luz = [ [ "2018-7-24" , "יום שלישי (24/7)" , [
 											{ start:"15:40" , end:"16:00" , class1:"break", name:"הפסהפתיבר" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"16:00" , end:"18:00" , class1:"nitzan2", name:"רוזה-לך פארקס" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"19:00" , end:"20:45" , class1:"pinkf", name:"Sing for the moment" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:00" , end:"20:45" , class1:"bodi1", name:"חתולנרגיה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"20:45" , end:"21:15" , class1:"special", name:"דיאלוג בחשיכה (כולם!!!)" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"21:15" , end:"21:30" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"21:30" , end:"23:00" , class1:"guy2", name:"פלסטלינה, פרצלינה" ,who:"גיא", class2:"", name2:"",who2:""}
