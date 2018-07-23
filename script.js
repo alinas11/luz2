@@ -146,6 +146,7 @@ function style_per_class(class1)
 				   "special" : "background:-webkit-linear-gradient(top, rgb(247,31,7) 0%, rgba(255,255,255,0) 250%);border-radius:5px ; box-shadow: 0px 0px 1px 1px #888 inset; ",
 				   "all" : "background:-webkit-linear-gradient(top, rgb(72,209,204) 0%, rgba(255,255,255,0) 250%);border-radius:5px ; box-shadow: 0px 0px 1px 1px #888 inset; ",
 				   "ec" : "background:-webkit-linear-gradient(top, rgb(243,204,178) 0%, rgba(255,255,255,0) 250%);border-radius:5px ; box-shadow: 0px 0px 1px 1px #888 inset; ",
+		     		"c" : "background:-webkit-linear-gradient(top, rgb(255,255,192) 0%, rgba(255,255,255,0) 250%);border-radius:5px ; box-shadow: 0px 0px 1px 1px #888 inset; ",
 		      "break" : "color: white"
 				   } 
 	for (style in styles)
