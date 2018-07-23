@@ -1,19 +1,20 @@
 //var luz = [ [ date , name , [ array of lesson parameters ]], [ date , name , [ array of lesson parameters ]]]
-var luz = [ [ "2018-7-23" , "יום שני (23/7)" , [
-											{ start:"08:00" , end:"10:00" , class1:"all", name:"Rain Check" ,who:"", class2:"", name2:"" ,who2:""},
-											{start:"10:00" , end:"12:10" , class1:"guy1", name:"חוף נתניה" ,who:"גיא", class2:"bodi2", name2:"בודיסיטר"  ,who2:"בודרהם"},
-											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"גיא", class2:"", name2:"", who2:""},
-											{ start:"13:10" , end:"14:10" , class2:"guy1", name2:"ויטרינה" ,who2:"גיא", class1:"bodi2", name:"בודיסיטר", who:"בודי"},
-											{ start:"14:10" , end:"15:40" , class1:"nitzan1", name:"Find Shola" ,who:"ניצן", class2:"", name2:"", who2:""},
+var luz = [ [ "2018-7-24" , "יום שלישי (24/7)" , [
+											{ start:"08:00" , end:"09:00" , class1:"c", name:"שעת כ" ,who:"UnSpecified", class2:"nitzan1", name2:"Beauty sleep" ,who2:"ניצן"},
+											{ start:"09:00" , end:"10:00" , class1:"ec", name:"MOana" ,who:"", class2:"", name2:"" ,who2:""},
+											{start:"10:00" , end:"12:10" , class1:"all", name:"What Does the Cow Say?" ,who:"", class2:"", name2:""  ,who2:""},
+											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"", class2:"", name2:"", who2:""},
+											{ start:"13:10" , end:"15:40" , class1:"bodi2", name:"Romans, Gauls, and Teutons" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"15:40" , end:"16:00" , class1:"break", name:"הפסהפתיבר" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"16:00" , end:"18:00" , class1:"guy1", name:"חדכ" ,who:"גיא", class2:"bodi2", name2:"בודיסיטר",who2:"בודרהם"},
-											{ start:"18:00" , end:"18:30" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"18:30" , end:"19:00" , class1:"special", name:"Thank The Panther הגעה חובה" ,who:"כולם!!!!!!", class2:"", name2:"",who2:""},		
-											{ start:"19:00" , end:"21:00" , class1:"bodi1", name:"You've Got Mail" ,who:"?", class2:"", name2:"",who2:""},
-											{ start:"21:00" , end:"21:30" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"21:30" , end:"23:00" , class1:"ec", name:"דיאלוג בחשכה" ,who:"", class2:"", name2:"",who2:""}
-											] , "אני שומר על הבסיס - גיא שני"
-			]
+											{ start:"16:00" , end:"18:00" , class1:"nitzan2", name:"רוזה-לך פארקס" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:00" , end:"20:45" , class1:"pinkf", name:"Sing for the moment" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"20:45" , end:"21:15" , class1:"special", name:"דיאלוג בחשיכה (כולם!!!)" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"21:15" , end:"21:30" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"21:30" , end:"23:00" , class1:"guy2", name:"פלסטלינה, פרצלינה" ,who:"גיא", class2:"", name2:"",who2:""}
+											]
+
+			 ]
 		   ]
 
 
