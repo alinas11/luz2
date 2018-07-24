@@ -1,6 +1,6 @@
 //var luz = [ [ date , name , [ array of lesson parameters ]], [ date , name , [ array of lesson parameters ]]]
 var luz = [  [ "2018-7-25" , "יום רביעי (25/7)" , [
-											{ start:"08:00" , end:"10:00" , class1:"guy1", name:"" ,who:"חגיגאי", class2:"", name2:"" ,who2:""},
+											{ start:"08:00" , end:"10:00" , class1:"guy1", name:"" ,who:"חגיגיא", class2:"", name2:"" ,who2:""},
 											{start:"10:00" , end:"12:10" , class1:"guy2", name:"יש לי יום יום חג" ,who:"גיא", class2:"", name2:""  ,who2:""},
 											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"13:10" , end:"13:20" , class1:"guy1", name:"כניסת הגיא" ,who:"", class2:"", name2:"", who2:""},
