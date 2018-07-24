@@ -9,7 +9,8 @@ var luz = [  [ "2018-7-25" , "יום רביעי (25/7)" , [
 											{ start:"16:00" , end:"16:20" , class1:"break", name:"הפסהפתיבר" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"16:20" , end:"18:00" , class1:"nitzan1", name:"P is for pomegranate" ,who:"ניצן", class2:"", name2:"",who2:""},
 											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"19:00" , end:"21:30" , class1:"ec", name:"To bee or to flee" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:00" , end:"20:30" , class1:"ec", name:"To bee or to flee" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"20:30" , end:"21:30" , class1:"nitzan2", name:"שולה המוקשים" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"21:30" , end:"22:00" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"22:00" , end:"23:00" , class1:"sport", name:"מדס או לא להיות" ,who:"", class2:"", name2:"",who2:""}
 											], "החבר הזה שניגש למועד ב אחרי שהוציא 97 בבגרות #ניצן חן טוב"
