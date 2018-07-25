@@ -4,7 +4,7 @@ var luz = [ [ "2018-7-26" , "יום חמישי (26/7)" , [
 											{start:"10:00" , end:"12:10" , class1:"nitzan1", name:"39 מדרגות לגן עדן" ,who:"", class2:"", name2:""  ,who2:""},
 											{ start:"12:10" , end:"13:00" , class1:"break", name:"שניצל א" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"13:00" , end:"13:20" , class1:"special", name:"Evolution!!!" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"13:10" , end:"15:40" , class1:"all", name:"מעשה ב4 חנים" ,who:"cb", class2:"", name2:"", who2:""},
+											{ start:"13:20" , end:"15:40" , class1:"all", name:"מעשה ב4 חנים" ,who:"cb", class2:"", name2:"", who2:""},
 											{ start:"15:40" , end:"16:00" , class1:"break", name:"להחליף ל-א'" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"16:00" , end:"17:00" , class1:"guy2", name:"ליהיות או לא ליהיות" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"17:00" , end:"18:00" , class1:"all", name:"Hotel Panorama" ,who:"", class2:"", name2:"",who2:""},
