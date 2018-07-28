@@ -1,16 +1,19 @@
 //var luz = [ [ date , name , [ array of lesson parameters ]], [ date , name , [ array of lesson parameters ]]]
-var luz = [ [ "2018-7-26" , "יום חמישי (26/7)" , [
-											{ start:"08:00" , end:"10:00" , class1:"guy2", name:"Sunny Beach" ,who:"", class2:"", name2:"" ,who2:""},
-										{start:"10:00" , end:"11:10" , class1:"nitzan1", name:"39 מדרגות לגן עדן" ,who:"", class2:"", name2:""  ,who2:""},
-											{start:"11:10" , end:"12:10" , class1:"all", name:"לקום מזיע" ,who:"", class2:"", name2:""  ,who2:""},
-											{ start:"12:10" , end:"13:00" , class1:"break", name:"שניצל א" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"13:00" , end:"13:20" , class1:"special", name:"Evolution!!! (כולם)" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"13:20" , end:"15:40" , class1:"bodi2", name:"מעשה ב4 חנים" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"15:40" , end:"16:00" , class1:"break", name:"להחליף ל-א'" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"16:00" , end:"17:00" , class1:"guy2", name:"ליהיות או לא ליהיות" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"17:00" , end:"18:00" , class1:"all", name:"Hotel Panorama" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"18:00" , end:"23:00" , class1:"break", name:"האור בקצה במנהרה" ,who:"", class2:"", name2:"",who2:""}
-											], "אני לא רעבה אני ניזונה מערכים"
+var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
+											{ start:"08:00" , end:"10:00" , class1:"break", name:"הגעה מהבית" ,who:"", class2:"", name2:"" ,who2:""},
+										{start:"10:00" , end:"11:10" , class1:"guy1", name:"Day Before..." ,who:"", class2:"", name2:""  ,who2:""},
+											{start:"11:10" , end:"12:10" , class1:"all", name:"להסתכל על השעון" ,who:"", class2:"", name2:""  ,who2:""},
+											{ start:"12:10" , end:"13:10" , class1:"break", name:"שניצל ב" ,who:"", class2:"", name2:"", who2:""},
+											{ start:"13:10" , end:"15:40" , class1:"nitzan1", name:"Hanichim or Nothing" ,who:"", class2:"", name2:"", who2:""},
+											{ start:"15:40" , end:"16:00" , class1:"break", name:"הפסה-פתיבר" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"16:00" , end:"17:00" , class1:"bodi2", name:"הוברבורד" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"17:00" , end:"18:00" , class1:"all", name:"הפתעה בדלת" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:00" , end:"20:00" , class1:"guy2", name:"Sleep Tight" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"20:00" , end:"21:30" , class1:"bodi1", name:"נגסת בגומבה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"21:30" , end:"22:00" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"22:00" , end:"23:00" , class1:"sport", name:"מדס" ,who:"?", class2:"", name2:"",who2:""},
+											], "נפלתם על שלושה סטלנים... אנונימי"
 			 ]
 
 			 
