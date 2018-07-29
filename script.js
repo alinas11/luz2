@@ -6,7 +6,7 @@ var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
 											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"13:10" , end:"15:40" , class1:"bodi1", name:"מוסר בעבודה" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"15:40" , end:"16:00" , class1:"break", name : "הפסה-פאתיבר" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"16:00" , end:"17:00" , class1:"nitzan1" ,name: "קרב הכומתות", who:"", class2:"", name2: "", who2:"”""
+											{ start:"16:00" , end:"17:00" , class1:"nitzan1" ,name: "קרב הכומתות", who:"", class2:"", name2: "", who2:""},
 											
 											{ start:"17:00" , end:"18:00" , class1:"all", name:"הפתעה בדלת" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
@@ -14,7 +14,7 @@ var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
 											{ start:"20:00" , end:"21:30" , class1:"bodi1", name: "מסך בהחלפה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"21:30" , end:"22:00" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"22:00" , end:"23:00" , class1:"guy2", name:"חצי ב" ,who:"?", class2:"", name2:"",who2:""},
-											], "נפלתם על שלושה סטלנים... אנונימי"
+											], "*מחיאת כפיים מביכה* - חן בודרהם בצ'יקפוינט"
 			 ]
 
 			 
