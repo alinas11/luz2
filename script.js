@@ -2,7 +2,7 @@
 var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
 											{ start:"08:00" , end:"10:00" , class1:"guy1", name:"גיא בן הנם " ,who:"", class2:"", name2:"" ,who2:""},
 										{start:"10:00" , end:"10:10" , class1:"break", name:"הפסקת בוקר" ,who:"", class2:"", name2:""  ,who2:""},
-											{start:"11:10" , end:"12:10" , class1:"bodi2", name:"You got Mail@^2" ,who:"", class2:"", name2:""  ,who2:""},
+											{start:"10:10" , end:"12:10" , class1:"bodi2", name:"You got Mail@^2" ,who:"", class2:"", name2:""  ,who2:""},
 											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"13:10" , end:"15:40" , class1:"bodi1", name:"מוסר בעבודה" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"15:40" , end:"16:00" , class1:"break", name : "הפסה-פאתיבר" ,who:"", class2:"", name2:"",who2:""},
