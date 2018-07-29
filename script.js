@@ -1,18 +1,19 @@
 //var luz = [ [ date , name , [ array of lesson parameters ]], [ date , name , [ array of lesson parameters ]]]
 var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
-											{ start:"08:00" , end:"10:00" , class1:"break", name:"הגעה מהבית" ,who:"", class2:"", name2:"" ,who2:""},
-										{start:"10:00" , end:"11:10" , class1:"guy1", name:"Day Before..." ,who:"", class2:"", name2:""  ,who2:""},
-											{start:"11:10" , end:"12:10" , class1:"all", name:"להסתכל על השעון" ,who:"", class2:"", name2:""  ,who2:""},
-											{ start:"12:10" , end:"13:10" , class1:"break", name:"שניצל ב" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"13:10" , end:"15:40" , class1:"nitzan1", name:"Hanichim or Nothing" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"15:40" , end:"16:00" , class1:"break", name:"הפסה-פתיבר" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"16:00" , end:"17:00" , class1:"bodi2", name:"הוברבורד" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"08:00" , end:"10:00" , class1:"guy1", name:"גיא בן הנם " ,who:"", class2:"", name2:"" ,who2:""},
+										{start:"10:00" , end:"10:10" , class1:"break", name:"הפסקת בוקר" ,who:"", class2:"", name2:""  ,who2:""},
+											{start:"11:10" , end:"12:10" , class1:"bodi2", name:"You got Mail@^2" ,who:"", class2:"", name2:""  ,who2:""},
+											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"", class2:"", name2:"", who2:""},
+											{ start:"13:10" , end:"15:40" , class1:"bodi1", name:"מוסר בעבודה" ,who:"", class2:"", name2:"", who2:""},
+											{ start:"15:40" , end:"16:00" , class1:"break", name : "הפסה-פאתיבר" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"16:00" , end:"17:00" , class1:"nitzan1" ,name: "קרב הכומתות", who:"", class2:"", name2: "", who2:"”""
+											
 											{ start:"17:00" , end:"18:00" , class1:"all", name:"הפתעה בדלת" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"19:00" , end:"20:00" , class1:"guy2", name:"Sleep Tight" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"20:00" , end:"21:30" , class1:"bodi1", name:"נגסת בגומבה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:00" , end:"19:30" , class1:"special", name:"חתונה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"20:00" , end:"21:30" , class1:"bodi1", name: "מסך בהחלפה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"21:30" , end:"22:00" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"22:00" , end:"23:00" , class1:"sport", name:"מדס" ,who:"?", class2:"", name2:"",who2:""},
+											{ start:"22:00" , end:"23:00" , class1:"guy2", name:"חצי ב" ,who:"?", class2:"", name2:"",who2:""},
 											], "נפלתם על שלושה סטלנים... אנונימי"
 			 ]
 
