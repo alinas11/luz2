@@ -11,7 +11,7 @@ var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
 											{ start:"17:00" , end:"18:00" , class1:"all", name:"הפתעה בדלת" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"19:00" , end:"19:30" , class1:"special", name:"חתונה" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"20:00" , end:"21:30" , class1:"bodi1", name: "מסך בהחלפה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:30" , end:"21:30" , class1:"bodi1", name: "מסך בהחלפה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"21:30" , end:"22:00" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"22:00" , end:"23:00" , class1:"guy2", name:"חצי ב" ,who:"?", class2:"", name2:"",who2:""},
 											], "*מחיאת כפיים מביכה* - חן בודרהם בצ'יקפוינט"
