@@ -1,19 +1,19 @@
 //var luz = [ [ date , name , [ array of lesson parameters ]], [ date , name , [ array of lesson parameters ]]]
-var luz = [ [ "2018-7-29" , "יום ראשון (29/7)" , [
-											{ start:"08:00" , end:"10:00" , class1:"guy1", name:"גיא בן הנם " ,who:"", class2:"", name2:"" ,who2:""},
+var luz = [ [ "2018-7-29" , "יום שלישי (29/7)" , [
+											{ start:"08:00" , end:"10:00" , class1:"guy1", name:" Smell The Freedom " ,who:"", class2:"", name2:"" ,who2:""},
 										{start:"10:00" , end:"10:10" , class1:"break", name:"הפסקת בוקר" ,who:"", class2:"", name2:""  ,who2:""},
 											{start:"10:10" , end:"12:10" , class1:"guy2", name:"ctrl+shift" ,who:"", class2:"", name2:""  ,who2:""},
 											{ start:"12:10" , end:"13:10" , class1:"break", name:"הפסקת צהריים" ,who:"", class2:"", name2:"", who2:""},
-											{ start:"13:10" , end:"15:40" , class1:"bodi1", name:"מוסר בעבודה" ,who:"", class2:"", name2:"", who2:""},
+											{ start:"13:10" , end:"15:40" , class1:"bodi1", name:"להתחבא מאחורי קרטון" ,who:"", class2:"", name2:"", who2:""},
 											{ start:"15:40" , end:"16:00" , class1:"break", name : "הפסה-פאתיבר" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"16:00" , end:"17:00" , class1:"bodi2" ,name: "סודות בהכנת קפה", who:"", class2:"", name2: "", who2:""},
 											
-											{ start:"17:00" , end:"18:00" , class1:"all", name:"הפתעה בדלת" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"17:00" , end:"18:00" , class1:"all", name:"הרצאה של בכיר",who:"", class2:"", name2:"",who2:""},
 											{ start:"18:00" , end:"19:00" , class1:"break", name:"הפסקת ערב" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"19:00" , end:"20:00" , class1:"special", name:"חתונה" ,who:"", class2:"", name2:"",who2:""},
+											{ start:"19:00" , end:"20:00" , class1:"guy1", name: "מסטיק פלסטיק" ,who:"", class2:"", name2:"",who2:""},
 											{ start:"20:00" , end:"21:30" , class1:"ec", name: "חם לי" ,who:"אקפולקו" ,class2:"", name2:"",who2:""},
 											{ start:"21:30" , end:"22:00" , class1:"break", name:"הפסקת לילה" ,who:"", class2:"", name2:"",who2:""},
-											{ start:"22:00" , end:"23:00" , class1:"guy2", name:"חצי ב" ,who:"?", class2:"", name2:"",who2:""},
+											{ start:"22:00" , end:"23:00" , class1:"nitzan1", name:"אאוטבק" ,who:"?", class2:"", name2:"",who2:""},
 											], "חנצ'וק, אתה יכול להיות הקליקר שלי - נימי"
 			 ]
 
